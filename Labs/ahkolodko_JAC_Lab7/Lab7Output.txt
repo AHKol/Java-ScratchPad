@@ -1,0 +1,55 @@
+Task 1: 
+ 
+Complete Student list
+Jack		Smith		50.00		IT
+Aaron		Johnson		76.00		IT
+Maaria		White		35.80		Business
+John		White		47.00		Media
+Adam		Kolodko		80.00		Development
+Laney		White		62.00		IT
+Jack		Jones		32.90		Business
+Wesley		Jones		42.89		Media
+
+Task 2: 
+ 
+Students who got 50.0-100.0 sorted by grade
+Jack		Smith		50.00		IT
+Laney		White		62.00		IT
+Aaron		Johnson		76.00		IT
+Adam		Kolodko		80.00		Development
+
+Task 3: 
+ 
+First Student who got 50.0-100.0
+Jack		Smith		50.00		IT
+
+Task 4: 
+ 
+Students in ascending order by last name then first
+Aaron		Johnson		76.00		IT
+Jack		Jones		32.90		Business
+Wesley		Jones		42.89		Media
+Adam		Kolodko		80.00		Development
+Jack		Smith		50.00		IT
+John		White		47.00		Media
+Laney		White		62.00		IT
+Maaria		White		35.80		Business
+
+Students in decending order by last name then first
+Maaria		White		35.80		Business
+Laney		White		62.00		IT
+John		White		47.00		Media
+Jack		Smith		50.00		IT
+Adam		Kolodko		80.00		Development
+Wesley		Jones		42.89		Media
+Jack		Jones		32.90		Business
+Aaron		Johnson		76.00		IT
+
+Task 5: 
+ 
+Unique Student last names
+Jones
+Kolodko
+Johnson
+White
+Smith
